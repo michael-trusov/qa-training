@@ -1,7 +1,10 @@
 <root>
   <mike age="35">
-    <name>Michael</name>
+    <name>Michael</name> 
     <surname>Trusov</surname>
   </mike>
+  <ksenia age="36">
+    <name>Ksenia</name>
+  </ksenia>
   <extra></extra>
 </root>
