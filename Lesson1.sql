@@ -83,3 +83,7 @@ GO
 select *
 from dbo.profiles
 
+select *
+from dbo.users u
+inner join dbo.profiles p
+  on u.Id = p.UserId
